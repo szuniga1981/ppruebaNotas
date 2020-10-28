@@ -5,7 +5,7 @@ public class PromedioServicioImp {
 
 	
 	//Crear método calcularPromedio, el cuál recibe una lista de valores y retorna el promedio.
-
+//
     public static void main(String[] args) {
       Scanner read = new Scanner (System.in);
         read = new Scanner (System.in);
